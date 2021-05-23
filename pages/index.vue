@@ -4,7 +4,7 @@
     <h1>atomuhr.saarland</h1>
     <div class="links">
       <a class="button" href="https://techmob.show">See who created this</a>
-      <a class="button" href="https://github.com/henrystoll/atomuhr.saarland">
+      <a class="button" href="https://github.com/Techmob-Show/atomuhr.saarland">
         Star us on GitHub
       </a>
     </div>
